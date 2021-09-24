@@ -14,7 +14,7 @@ MD5:   471dd42f4b7a3239df66b41137a08792
 CertUtil -hashfile .\adrenaline3.zip sha1
 SHA-1: 91dbbe8c18ab24fe74f92b6a112a76abeb8ad2e6
 
-#2- launch adrenaline3d.exe
+#3- launch adrenaline3d.exe
 
 
 
